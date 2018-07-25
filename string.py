@@ -7,4 +7,4 @@ for x in strings:
     sentence += x
     flag = True
 print (sentence)
-    
+jjhg
